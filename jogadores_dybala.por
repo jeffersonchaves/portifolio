@@ -3,7 +3,6 @@ programa
 	
 	
 	funcao inicio()
-	{
 		//declarar
 	 	inteiro caracJogador[6] = {88, 84, 65, 89, 83, 75}
 	 	cadeia qualidades[6] = {"position", "finishing",  "power", "shots", "volleys", "penalties"}
